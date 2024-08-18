@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Python-based machine learning and algorithm development.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
